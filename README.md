@@ -8,4 +8,5 @@ CS + Linguistics at Grinnell '28. I build software and hardware.
 - 🎸 I help run [Freesound](https://jasonchigabatia.com/projects/freesound), Grinnell's student music group
 
 **Portfolio:** [jasonchigabatia.com](https://jasonchigabatia.com) (it's a server rack, scroll it)
+
 **Stack:** C, TypeScript, Python, ESP-IDF, Next.js, Linux
